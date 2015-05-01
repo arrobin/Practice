@@ -1,0 +1,9 @@
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe.config
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.pdb
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.pdb
+E:\.NET Web App(Batch-4)\25-04-15\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.TicketPurchase.resources
