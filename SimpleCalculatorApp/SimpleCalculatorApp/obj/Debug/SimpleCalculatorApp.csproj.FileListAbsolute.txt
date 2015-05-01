@@ -1,0 +1,12 @@
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csprojResolveAssemblyReference.cache
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Calculator.resources
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.Cache
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+D:\OPPVB.NETC#\SEIP\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
+E:\.NET Web App(Batch-4)\25-04-15\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+E:\.NET Web App(Batch-4)\25-04-15\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\Problem Set-2\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
